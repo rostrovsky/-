@@ -1,4 +1,4 @@
-local indent_size = 4
+local indent_size = 2
 
 vim.opt.number = true
 vim.opt.autoindent = true
