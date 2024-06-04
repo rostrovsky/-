@@ -6,9 +6,9 @@ vim.opt.expandtab = true
 vim.opt.tabstop = indent_size
 vim.opt.softtabstop = indent_size
 vim.opt.shiftwidth = indent_size
-vim.opt.mouse = false
+vim.opt.mouse = ''
 vim.opt.termguicolors = true
-vim.opt.syntax = true
+vim.opt.syntax = 'on'
 vim.cmd('colorscheme slate')
 
 -- local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
