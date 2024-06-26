@@ -36,7 +36,7 @@ action = "PasteSelection"
 mouse = "Right"
 
 [font]
-normal = { family = "JetBrains Mono", style = "Bold" }
+normal = { family = "JetBrainsMono Nerd Font", style = "Bold" }
 bold = { style = "Bold" }
 italic = { style = "Italic" }
 bold_italic = { style = "Bold Italic" }
